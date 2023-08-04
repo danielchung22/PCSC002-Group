@@ -1,2 +1,2 @@
 # PCSC002
-Additional Assessment for Introduction to Programming (Sunway Foundation in Arts)
+Group Assignment for Introduction to Programming (Sunway Foundation in Arts)
